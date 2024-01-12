@@ -1,0 +1,23 @@
+{
+  "mode": "development",
+  "useWebsockets": false,
+  "yatNFT": "0x7d256d82b32d8003d1ca1a1526ed211e6e0da9e2",
+  "chainId": 1,
+  "network": 1,
+  "chainName": "Ethereum Mainnet",
+  "chainNativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "chainRpcUrls": [
+    "https://mainnet.infura.io/v3/"
+  ],
+  "chainBlockExplorerUrls": [
+    "https://etherscan.io/"
+  ],
+  "apiBaseURL": "https://app.gamium.world/api/v1/",
+  "landBuyEventToastTimeout": 5000,
+  "avaliabilityDate": "mar 13, 2022 00:00:00",
+  "maxTicketsPerTX": 3
+}
